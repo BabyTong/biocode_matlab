@@ -1,0 +1,7 @@
+setwd("F:\\程序\\samr\\")
+source("http://bioconductor.org/biocLite.R")
+biocLite("samr")
+setwd("E:\\大创\\程序\\SAM")
+library(samr)
+source("integrate.r")
+integrate()
