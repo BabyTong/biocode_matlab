@@ -9,6 +9,7 @@ collect some matlab code (bioinfomatics)
 4. probe2geneid and some description on it
 5. survival analysis and some description on it
 6. normalization and some description on it（include:RMA MAS5.0 dChip LVS Quantile Lowess）
+7. RandomWalk function and description on it
 
 ***
 Email: btzheng1116@163.com
